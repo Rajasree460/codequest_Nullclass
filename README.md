@@ -14,3 +14,7 @@ It is basically a clone of Stack Overflow.<br>
 
 https://github.com/user-attachments/assets/07329fc7-f3b3-450d-a893-5906ed2afeb5
 
+
+# Project Report 
+
+[Internship Report.pdf](https://github.com/user-attachments/files/17450615/Internship.Report.pdf)
