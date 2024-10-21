@@ -10,12 +10,8 @@ It is basically a clone of Stack Overflow.<br>
 ![Screenshot 2024-10-20 185403](https://github.com/user-attachments/assets/8c2d75bf-b697-4ce7-97d3-261647e607f6)
 
 # Demo video
-
-
 https://github.com/user-attachments/assets/07329fc7-f3b3-450d-a893-5906ed2afeb5
 
 
 # Project Report 
-
-
 [Internship Report.pdf](https://github.com/user-attachments/files/17450699/Internship.Report.pdf)
