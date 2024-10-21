@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "icon": "svgr icons -d components/icons --icon --replace-attr-values \"#000=currentColor\"",
-    "postinstall": "prisma generate"
+    "postinstall": "digital envelope routines:EVP_DecryptFinal_ex:bad decrypt"
   },
   "keywords": [],
   "author": "",
@@ -44,6 +44,7 @@
     "postcss-loader": "^3.0.0",
     "postcss-nested": "^4.2.3",
     "prettier": "^2.0.5",
+    "prisma": "^5.21.1",
     "style-loader": "^1.2.1"
   }
 }
